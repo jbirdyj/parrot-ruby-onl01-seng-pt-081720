@@ -1,3 +1,4 @@
 def parrot (phrase="Squawk!")
-  return (phrase)
+puts (phrase)
+returns phrase
 end
